@@ -16,9 +16,9 @@ Ini adalah aplikasi quiz matematika dibuat dengan kivy, Python 🐍
 - [ ] x86
 - [ ] x86_64
 
-### Runing
+### Run
 
 ```bash
-pip install kivy
+pip install kivy sqlite3
 python main.py
 ```
