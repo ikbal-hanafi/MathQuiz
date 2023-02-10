@@ -1,15 +1,15 @@
-# math_quiz
+# MathQuiz
 
-[![math quiz](https://img.shields.io/github/v/release/ikbal-hanafi/math_quiz?include_prereleases)](https://github.com/ikbal-hanafi/math_quiz/releases)
+[![math quiz](https://img.shields.io/github/v/release/ikbal-hanafi/MathQuiz?include_prereleases)](https://github.com/ikbal-hanafi/MathQuiz/releases)
 
 Ini adalah aplikasi quiz matematika dibuat dengan kivy, Python 🐍
 
 <center>
-  <img alt="math_quiz" src="logo.jpg" width="250" height="250"></img>
+  <img alt="MathQuiz" src="logo.jpg" width="250" height="250"></img>
 </center>
 
 ## Install
-download [aplikasi](https://github.com/ikbal-hanafi/math_quiz/releases)
+download [aplikasi](https://github.com/ikbal-hanafi/MathQuiz/releases)
 - [X] armeabi-v7a
 - [X] arm64-v8a
 - [ ] x86
