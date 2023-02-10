@@ -10,9 +10,15 @@ Ini adalah aplikasi quiz matematika dibuat dengan kivy, Python 🐍
 </center>
 
 ## Install
-download [aplikasi](https://github.com/ikbal-hanafi/MathQuiz/releases)
+### download [aplikasi](https://github.com/ikbal-hanafi/MathQuiz/releases)
 - [X] armeabi-v7a
 - [X] arm64-v8a
 - [ ] x86
 - [ ] x86_64
 
+### Runing
+
+```bash
+pip install kivy
+python main.py
+```
